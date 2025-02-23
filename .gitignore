@@ -1,0 +1,19 @@
+# Node.js (MagicMirror²)
+node_modules/
+npm-debug.log
+package-lock.json
+.env
+.DS_Store
+
+# Python (Flask, OpenCV)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Logs e arquivos temporários
+logs/
+*.log
+tmp/
